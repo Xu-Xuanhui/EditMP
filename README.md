@@ -2,6 +2,8 @@
 
 This is the code for EditMP.
 
+README waits for updated
+
 ## Requirements
 Python<br>
 Pycharm<br>
@@ -17,7 +19,11 @@ Movement Primitive (MP) is a promising Learning from Demonstration (LfD) framewo
 ```
 python mp_train.py 
 ```
-## Contributing
+## Acknowledgement
+Codebase from [Transgan](https://github.com/VITA-Group/Transgan)
+## Citation
+
+If you find this repo is helpful, please cite<br>
 
 @ARTICLE{10149371,
   author={Xu, Xuanhui and You, Mingyu and Zhou, Hongjun and Qian, Zhifeng and Xu, Weisheng and He, Bin},
@@ -28,6 +34,16 @@ python mp_train.py
   number={},
   pages={1-8},
   doi={10.1109/LRA.2023.3285473}}
+  
+Our code has is based on Jiang Yifan's Transgan, so please also cite<br>
+
+@article{jiang2021transgan,
+  title={Transgan: Two pure transformers can make one strong gan, and that can scale up},
+  author={Jiang, Yifan and Chang, Shiyu and Wang, Zhangyang},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
 
 ## License
 
