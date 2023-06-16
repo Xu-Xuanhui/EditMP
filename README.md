@@ -6,7 +6,7 @@ README waits for updated
 
 ## Requirements
 Python<br>
-Pycharm<br>
+Pytorch<br>
 
 
 
