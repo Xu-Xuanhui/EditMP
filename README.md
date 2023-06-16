@@ -1,6 +1,6 @@
-# EditMP(https://ieeexplore.ieee.org/document/10149371)
+# EditMP
 
-This is the code for EditMP.
+This is the code for EditMP(https://ieeexplore.ieee.org/document/10149371).
 
 README waits for updated
 
