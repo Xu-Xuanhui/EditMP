@@ -35,7 +35,7 @@ If you find this repo is helpful, please cite<br>
   pages={1-8},
   doi={10.1109/LRA.2023.3285473}}
   
-Our code has is based on Jiang Yifan's Transgan, so please also cite<br>
+Our code has been modified based on Jiang Yifan's Transgan, so please also cite<br>
 
 @article{jiang2021transgan,
   title={Transgan: Two pure transformers can make one strong gan, and that can scale up},
