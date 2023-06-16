@@ -3,20 +3,20 @@
 This is the code for EditMP.
 
 ## Requirements
-Python,
-Pycharm
+Python<br>
+Pycharm<br>
 
-```
-```
+
+
 
 ## Abstract
 Movement Primitive (MP) is a promising Learning from Demonstration (LfD) framework, which is commonly used to learn movements from human demonstrations and adapt the learned movements to new task scenes. A major goal of MP research is to improve the adaptability of MP to various target positions and obstacles. MPs enable their adaptability by capturing the variability of demonstrations. However, current MPs can only learn from low-variance demonstrations. The low-variance demonstrations include varied target positions but leave various obstacles alone. These MPs can not adapt the learned movements to the task scenes with different obstacles, which limits their adaptability since obstacles are everywhere in daily life. In this paper, we propose a novel transformer and GAN-based Editable Movement Primitive (EditMP), which can learn movements from high-variance demonstrations. These demonstrations include the movements in the task scenes with various target positions and obstacles. After movement learning, EditMP can controllably and interpretably edit the learned movements for new task scenes. Notably, EditMP enables all robot joints rather than the robot end-effector to avoid hitting complex obstacles. The proposed method is evaluated on three tasks and deployed to a real-world robot. We compare EditMP with probabilistic-based MPs and empirically demonstrate the state-of-the-art adaptability of EditMP.
 ![EditMP](assets/EditMPs_v1.png)
 
 ## Train
-'''
+```
 python mp_train.py 
-'''
+```
 ## Contributing
 
 @ARTICLE{10149371,
