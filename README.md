@@ -17,7 +17,7 @@ Movement Primitive (MP) is a promising Learning from Demonstration (LfD) framewo
 
 ## Train
 ```
-python mp_train.py 
+python exps/mp_train.py 
 ```
 ## Acknowledgement
 Codebase from [Transgan](https://github.com/VITA-Group/Transgan)
